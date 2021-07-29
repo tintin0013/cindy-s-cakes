@@ -204,6 +204,9 @@ h1 {
   flex-wrap: wrap;
   padding-top: 3vw;
 }
+#nom {
+  margin-left: 0.7vw;
+}
 #input {
   display: flex;
   flex-direction: column;
@@ -239,6 +242,7 @@ h1 {
 #boutton {
   width: max-content;
   color: #655757;
+  margin-left: 3vw;
 }
 #divBouttonEnvoyer {
   display: flex;
